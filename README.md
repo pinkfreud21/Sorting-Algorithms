@@ -12,5 +12,3 @@ Enjoy!
 
 
 
-owner -> Gabriel Reis
-intention -> get knowledge!
